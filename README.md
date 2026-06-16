@@ -139,23 +139,23 @@ Continue focusing on treatments that improve both patient outcomes and satisfact
 ## Project Structure
 
 physical-therapy-analytics/
-
+│
 ├── data/
-│ ├── physical_therapy_visits.csv
-│ └── physical_therapy_visits.xlsx
+│   └── airbnb_datasheet_raw.csv
+│   └── airbnb_cleaned_final.csv
 │
 ├── excel/
-│ └── physical_therapy_visits.xlsx
-│
-├── powerbi/
-│ ├── dashboard.pbix
-│ └── dashboard.jpg
-│
-├── python/
-│ └── pt_visits.ipynb
+│   └── airbnb_datasheet.xlsx
 │
 ├── sql/
-│ └── queries.sql
+│   └── queries.sql
+│
+├── python/
+│   └── airbnb_analysis.ipynb
+│
+├── powerbi/
+│   ├── dash.pbix
+│   └── dash.jpg
 │
 └── README.md
 
