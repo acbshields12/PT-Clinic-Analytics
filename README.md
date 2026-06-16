@@ -141,21 +141,21 @@ Continue focusing on treatments that improve both patient outcomes and satisfact
 physical-therapy-analytics/
 │
 ├── data/
-│   └── airbnb_datasheet_raw.csv
-│   └── airbnb_cleaned_final.csv
+│   └── airbnb_datasheet_raw.csv  
+│   └── airbnb_cleaned_final.csv  
 │
-├── excel/
-│   └── airbnb_datasheet.xlsx
+├── excel/  
+│   └── airbnb_datasheet.xlsx  
 │
-├── sql/
-│   └── queries.sql
+├── sql/  
+│   └── queries.sql  
 │
-├── python/
-│   └── airbnb_analysis.ipynb
+├── python/  
+│   └── airbnb_analysis.ipynb  
 │
-├── powerbi/
-│   ├── dash.pbix
-│   └── dash.jpg
+├── powerbi/  
+│   ├── dash.pbix  
+│   └── dash.jpg  
 │
 └── README.md
 
