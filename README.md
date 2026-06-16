@@ -138,9 +138,11 @@ Continue focusing on treatments that improve both patient outcomes and satisfact
 
 ## Project Structure
 
+```text
+
 physical-therapy-analytics/
 │
-├── data/
+├── data/  
 │   └── airbnb_datasheet_raw.csv  
 │   └── airbnb_cleaned_final.csv  
 │
@@ -159,6 +161,7 @@ physical-therapy-analytics/
 │
 └── README.md
 
+```
 ---
 
 ## 👤 Author
