@@ -156,8 +156,8 @@ physical-therapy-analytics/
 │   └── physical_therapy_visits.xlsx
 │
 ├── powerbi/
-│   ├── dash.pbix
-│   └── dash.jpg
+│   ├── dashboard.pbix
+│   └── dashboard.jpg
 │
 ├── python/
 │   └── pt_visits.ipynb
