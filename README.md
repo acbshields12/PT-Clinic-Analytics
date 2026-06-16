@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](powerbi/dash.jpg)
+![Dashboard Preview](powerbi/dashboard.jpg)
 
 
 ---
