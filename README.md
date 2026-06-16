@@ -1,5 +1,12 @@
 # Physical Therapy Clinic Analytics Dashboard
+---
 
+## Dashboard Preview
+
+![Dashboard Preview](powerbi/dash.jpg)
+
+
+---
 ## Project Overview
 
 This project analyzes 100,000 physical therapy patient visits to evaluate clinic performance, treatment effectiveness, therapist productivity, patient outcomes, insurance reimbursement trends, and revenue generation. The goal is to transform raw healthcare operational data into actionable business insights using Excel, SQL, Python, and Power BI.
